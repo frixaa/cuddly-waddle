@@ -151,6 +151,12 @@ print(results)
 
 - See the [examples directory](examples/) for detailed use cases.
 - Example: Automate a penetration test and send results to JIRA.
+- Example: Wrap the Holibox portal as an Android APK using
+  [android-webview-guide.md](android-webview-guide.md) and the sample project
+  in [webwrapper-app](webwrapper-app/).
+- Example: The repository contains a GitHub Actions workflow that builds the
+  WebWrapper APK on each push. Download the latest APK artifact directly from
+  the Actions page.
 
 ---
 
